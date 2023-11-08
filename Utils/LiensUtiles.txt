@@ -1,0 +1,5 @@
+Documentation de tous les événements récupérable depuis un live (en JavaScript donca adapter en C# pour Unity):
+https://github.com/isaackogan/TikTok-Live-Connector
+
+Discord pour poser des questions en cas de problèmes :
+discord.gg/2c6kX6g3Pa
